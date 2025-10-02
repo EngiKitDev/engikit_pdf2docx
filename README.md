@@ -41,7 +41,7 @@ Windows (PowerShell)
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
-Running (GUI)
+## Running (GUI)
 ```bash
 python engikit_pdf2docx.py
 ```
